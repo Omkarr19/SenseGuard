@@ -1,0 +1,1 @@
+The application generates deterministic demo scenarios in memory at runtime. This folder is reserved for optional synthetic CSV exports produced during development. Do not put API keys or real sensor/customer data here.
